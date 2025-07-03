@@ -1,0 +1,40 @@
+/* Dark academia style */
+body {
+    background-color: #1f1d1b;
+    color: #e8ddca;
+    font-family: 'Georgia', 'Garamond', serif;
+}
+
+h1, h2, h3, h4 {
+    color: #d6c29b;
+}
+
+a {
+    color: #c9a96e;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #e4bf8c;
+    text-decoration: underline;
+}
+
+.site-header,
+.site-footer {
+    background-color: #151311;
+    border-top: 2px solid #a37b4f;
+}
+
+.site-footer p {
+    color: #c9b79c;
+}
+
+.book-cover img {
+    box-shadow: 0 0 10px rgba(0,0,0,0.7);
+    border: 2px solid #7e674a;
+}
+
+.book-cover img:hover {
+    transform: scale(1.02);
+    transition: all 0.3s;
+}
