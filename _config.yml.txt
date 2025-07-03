@@ -29,4 +29,5 @@ defaults:
       path: ""
       type: books
     values:
+      layout: single
       css: "/assets/custom.css"
