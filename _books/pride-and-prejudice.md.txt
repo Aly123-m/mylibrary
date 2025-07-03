@@ -1,0 +1,13 @@
+---
+title: "Pride and Prejudice"
+author: "Jane Austen"
+genre: "Fiction"
+subgenre: "Classic"
+cover: "/assets/images/pride-and-prejudice.jpg"
+file: "/assets/ebooks/pride-and-prejudice.pdf"
+summary: |
+  A witty novel of manners, exploring the nature of love, reputation, and class in early 19th century England.
+year: 1813
+---
+
+[📥 Download this book]( /assets/ebooks/pride-and-prejudice.pdf )
