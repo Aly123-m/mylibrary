@@ -1,5 +1,5 @@
 title: "My Personal Library"
-description: "A dark academia personal library of my books"
+description: "A dark academia personal.library of my books"
 baseurl: "" 
 url: "https://Aly123-m.github.io"
 
